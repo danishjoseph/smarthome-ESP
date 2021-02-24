@@ -19,6 +19,5 @@
 6. Selected Board details with Port selection
 8. Click on Upload Icon
 
-### Wiring Sample: 
 
-<img src="https://github.com/danishjoseph/smarthome-ESP/blob/main/wiring.jpg" alt="example for 2 relay module and 2 switch" height="500" width="500">
+
